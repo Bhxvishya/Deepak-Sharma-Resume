@@ -1,0 +1,23 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "A modern, responsive portfolio website showcasing 29+ years of experience in business analysis, civil engineering, and operations management.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhxvishya/Deepak-Sharma-Resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhxvishya/Deepak-Sharma-Resume/issues"
+  },
+  "homepage": "https://github.com/Bhxvishya/Deepak-Sharma-Resume#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
